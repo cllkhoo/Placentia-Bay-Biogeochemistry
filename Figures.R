@@ -1,6 +1,7 @@
 -----------------------------------------------------------------------------------PUBLICATION R CODE: FIGURES------------------------------------------------------------------------------------------
 
---Figures associated with "Size Fractionated Biogeochemical Constituents across adjacent coastal systems informs approaches for integrating small catchment studies into regional models" - submitted to L&O August 2022--
+--Figures associated with "Size Fractionated Biogeochemical Constituents across adjacent coastal systems informs approaches for integrating small catchment studies into regional models" 
+--submitted to L&O August 2022--
 
 --Manuscript Authors: C.L.L.Khoo, R.E.Sipler, S.J.M.Faulkner, S.G.Boyd, M.Beheshti Foroutani, C.E.McBride, S.E.Ziegler--
 --Code Author: C.L.L.Khoo (cllkhoo@mun.ca; celyn.khoo3@gmail.com)--
