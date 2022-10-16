@@ -2,7 +2,7 @@
 
 ---------------------------------------Linear Mixed Effect Approach----------------------------------------
 
-#The approach can determine the effect of time and site on DOC (and other paramaters)
+#The approach can determine the effect of time and site on DOC (and other parameters)
 ##Site is a fixed effect because we visited the same location each time
 ##Time is a random effect because instantaneous sampling can't describe the entire period
 
