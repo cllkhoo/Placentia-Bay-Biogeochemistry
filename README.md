@@ -1,7 +1,7 @@
 # Placentia-Bay-Biogeochemistry
 Statistical analysis and figure generation for size fractionated biogeochemical constituents in Placentia Bay, NL
 
-This repository holds all R codes, figures, tables, and data associated with a submitted with Khoo et al. 2022. 
+This repository holds all R codes, figures, tables, and data associated with Khoo et al. 2022. 
 "Size Fractionated Biogeochemical Constituents across adjacent coastal systems informs approaches for integrating small catchment 
 studies into regional models". In Review at Limnology and Oceanography. 
 
